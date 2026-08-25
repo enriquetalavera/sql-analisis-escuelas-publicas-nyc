@@ -24,7 +24,7 @@ Top 10 escuelas con mejores resultados identificados
 Análisis de distribución por distrito
 Visualización
 ![Top 10](visuals/top_10_escuelas.png)
-![Distribucion](visuals/distribucion_sat.png)
+![Distribucion](visuals/variabilidad_borough.png)
 Stack
 SQL (WHERE, GROUP BY, AVG, ORDER BY, LIMIT)
 Python (Pandas, Matplotlib, Seaborn)
