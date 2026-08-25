@@ -5,7 +5,7 @@
 </p>
 
 ## Resumen del proyecto
-Análisis de 444 escuelas públicas de Nueva York para determinar cómo los recursos escolares, tasa de graduación y entorno socioeconómico impactan en los puntajes SAT.
+Análisis de 375 escuelas públicas de Nueva York para determinar cómo los recursos escolares, tasa de graduación y entorno socioeconómico impactan en los puntajes SAT.
 
 ## Dataset
 - **Fuente:** NYC Open Data - Escuelas Públicas
