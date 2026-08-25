@@ -1,1 +1,2 @@
-Captura de consola de DataLab con Top 5 matematicas, Top 10 SAT total y borough con mayor variabilidad.
+- top_10_escuelas_pro.png: Ranking Top 10 escuelas por SAT total (max 2400). Stuyvesant lidera con 2144.
+- variabilidad_borough.png: Manhattan presenta mayor desviacion estandar (230.29) con 89 escuelas.
