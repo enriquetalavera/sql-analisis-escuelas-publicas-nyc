@@ -36,7 +36,7 @@ Estructura
 ├── visuals/
 │   ├── cover.jpg
 │   ├── top_10_escuelas.png
-│   └── distribucion_sat.png
+│   └── variabilidad_borough.png
 ├── analisis_escuelas.ipynb
 └── README.md
 ```
