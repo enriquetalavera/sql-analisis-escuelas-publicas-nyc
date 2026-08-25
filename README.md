@@ -41,4 +41,8 @@ Estructura del repositorio
 │   ├── cover.jpg
 │   ├── top_10_escuelas.png
 │   └── variabilidad_borough.png
-├── analisis_escuelas.ip
+├── analisis_escuelas.ipynb
+└── README.md
+```
+Autor
+Enrique Talavera - LinkedIn | GitHub
