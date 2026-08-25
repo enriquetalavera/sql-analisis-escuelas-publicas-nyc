@@ -9,7 +9,7 @@ Análisis de 375 escuelas públicas de Nueva York para determinar cómo los recu
 
 ## Dataset
 - **Fuente:** NYC Open Data - Escuelas Públicas
-- **Registros:** 444 escuelas
+- **Registros:** 375 escuelas
 - **Variables clave:** puntaje SAT, presupuesto por estudiante, tasa de graduación, tamaño de clases
 
 ## Metodología
