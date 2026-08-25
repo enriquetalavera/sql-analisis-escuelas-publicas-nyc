@@ -1,5 +1,7 @@
 Análisis de Escuelas Públicas de NYC y Resultados SAT
-![Portada NYC](visuals/cover.jpg)
+<p align="center">
+  <img src="visuals/cover.jpg" width="800" alt="Portada NYC">
+</p>
 Resumen del proyecto
 Análisis de 444 escuelas públicas de Nueva York para determinar cómo los recursos escolares, tasa de graduación y entorno socioeconómico impactan en los puntajes SAT.
 Dataset
@@ -10,7 +12,7 @@ Metodología
 ```sql
 SELECT 
   school_name,
-  AVG(sat_score) as avg_sat,
+  AVG(sat_score) AS avg_sat,
   graduation_rate
 FROM schools
 WHERE sat_score IS NOT NULL
@@ -21,15 +23,17 @@ LIMIT 10;
 Hallazgos principales
 Correlación entre recursos y resultados SAT
 Top 10 escuelas con mejores resultados identificados
-Análisis de distribución por distrito
+Análisis de variabilidad de rendimiento por Borough
 Visualización
+Top 10 Escuelas Públicas NYC por SAT Total
 ![Top 10](visuals/top_10_escuelas.png)
+Variabilidad de rendimiento por Borough - NYC
 ![Distribucion](visuals/variabilidad_borough.png)
 Stack
 SQL (WHERE, GROUP BY, AVG, ORDER BY, LIMIT)
 Python (Pandas, Matplotlib, Seaborn)
 Jupyter Notebook
-Estructura
+Estructura del repositorio
 ```
 ├── data/
 ├── queries/
@@ -37,8 +41,4 @@ Estructura
 │   ├── cover.jpg
 │   ├── top_10_escuelas.png
 │   └── variabilidad_borough.png
-├── analisis_escuelas.ipynb
-└── README.md
-```
-Autor
-Enrique Talavera - LinkedIn | GitHub
+├── analisis_escuelas.ip
