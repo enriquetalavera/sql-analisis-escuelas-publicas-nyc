@@ -18,8 +18,9 @@ Determinar que distritos presentan menor rendimiento y que variables estan asoci
 4. Visualizacion de top 5 distritos con menor rendimiento
 
 ## Hallazgos principales
-- [Escribe 2 hallazgos con numeros, ej: Distrito X con promedio 380 vs media 450]
-- [Ej: Correlacion negativa -0.65 entre % almuerzo gratuito y puntaje]
+- Top Math: Stuyvesant High School con 754 en matematicas, seguido por Bronx High School of Science con 714.
+- Top SAT Total: Stuyvesant 2144, Bronx Science 2041, Staten Island Tech 2041. Brecha de 255 puntos entre el puesto 1 y el 10.
+- Mayor variabilidad por borough: Manhattan con 89 escuelas, promedio SAT 1340.13 y desviacion estandar 230.29, indica la mayor desigualdad interna de la ciudad.
 
 ## Tecnologias
 - SQL (PostgreSQL), agregaciones, CASE WHEN, ventanas
